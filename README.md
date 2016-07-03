@@ -1,2 +1,4 @@
-# -
-PHP
+<?php
+   echo "my name liuwenxi";
+   
+?>
